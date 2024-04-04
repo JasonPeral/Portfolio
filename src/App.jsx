@@ -1,7 +1,6 @@
 import React from 'react';
-import NavBar from './component/NavBar';
 import MainSection from './components/MainSection';
-import Resume from './components/Resume';  // assuming you have a Resume component
+import Resume from './components/Resume'; 
 import PortfolioSection from './components/portfolio';
 import Project1Detail from './components/ProjectDetail';
 import CryptoNewsAppDetail from './components/CryptoNewsAppDetail';
@@ -9,6 +8,7 @@ import ReactTaskManagerDetail from './components/ReactTaskManagerDetail';
 import ContactInfoPage from './components/ContactInfoPage';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './index.css';
+import NavBar from './components/NavBar';
 
 function App() {
   return (
