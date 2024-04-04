@@ -1,5 +1,5 @@
 import React from 'react';
-import Navbar from './components/Navbar';
+import NavBar from './component/NavBar';
 import MainSection from './components/MainSection';
 import Resume from './components/Resume';  // assuming you have a Resume component
 import PortfolioSection from './components/portfolio';
@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="bg-gray-100 h-screen w-screen p-0 m-0">
       <Router>
-        <Navbar />
+        <NavBar />
         <div className="flex justify-center items-center">
           <Routes>
             <Route path="/" element={<MainSection />} />
