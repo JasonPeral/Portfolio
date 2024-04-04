@@ -1,8 +1,17 @@
-# React + Vite
+Portfolio Project
+Welcome to my personal portfolio project! This project showcases my work as a Full Stack Developer, including various applications I've built, such as a booking app, a task manager, and a cryptocurrency news aggregator.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Introduction
+This portfolio is designed to highlight my skills in web development, including both frontend and backend technologies. It features responsive design, interactive elements, and integration with external APIs.
 
-Currently, two official plugins are available:
+Features
+QuantaQue Booking App: A service booking platform connecting customers with service providers.
+React Task Manager: A dynamic task management application built with React.
+Crypto News App: An application that aggregates real-time cryptocurrency news and information.
+Technologies
+This portfolio utilizes a range of technologies across its projects:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Frontend: React.js, Tailwind CSS for styling, responsive design
+Backend: Node.js with Express.js, Django for Python-based projects
+Database: MongoDB, SQLite
+APIs: Crypto News API, custom RESTful APIs for project data
