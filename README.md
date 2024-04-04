@@ -20,3 +20,9 @@ This portfolio utilizes a range of technologies across its projects:
 - **Backend:** Node.js with Express.js, Django for Python-based projects
 - **Database:** MongoDB, SQLite
 - **APIs:** Crypto News API, custom RESTful APIs for project data
+
+## Contact
+
+- **Name:** Jason Peral
+- **Email:** [jasonperal@hotmail.com](mailto:jasonperal@hotmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/jason-peral-89919716b/](https://www.linkedin.com/in/jason-peral-89919716b/)
